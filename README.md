@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimlynchwriter
+- 👋 Hi, I’m @jim-lynch
 - 👀 I’m interested in technical writing.
 - 🌱 I’m currently learning more about technical writing.
 - 💞️ I’m looking to collaborate on software documentation.
